@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Net.Http;
-using CryptoCompareApi.News;
 using JetBrains.Annotations;
 
 namespace CryptoCompare
